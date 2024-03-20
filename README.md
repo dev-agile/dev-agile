@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 Having 6+ years of experience as in Industry**
+- 🔭 Having 7+ years of experience as in Industry**
 
 - 🌱 I’m currently learning **Web Accessibility**
 
