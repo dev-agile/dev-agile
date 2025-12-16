@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web Accessibility**
 
-- 💬 Ask me about **React, React Native, Next, Typescript, Node**
+- 💬 Ask me about **React, React Native, Next, Typescript, Node, Blockchain**
 
 - ⚡ Fun fact **I am Funny**
 
